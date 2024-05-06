@@ -1,6 +1,6 @@
 # Accesorios
 Accesorios para tu Royal
 
-<br>Parrillas/Herrajes</br>
+<br><a href="https://github.com/RoyalPatosMedellin/Accesorios/Parrilas_Herrajes.md">Parrillas/Herrajes</a></br>
 <br>Maleteros</br>
 <br>Luces/Exploradoras</br>
